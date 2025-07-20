@@ -5,7 +5,7 @@ if a>15 :
 elif 7<=a<=15:
     tn =a-a*0.2
     print("Thu nhap nhan vien do la:",tn)
-elif a<7:
+else:
     tn= a-a*0.1
     print("Thu nhap nhan vien do la:",tn)
 
